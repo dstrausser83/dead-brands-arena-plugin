@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.deadbrands/arena",
+  "title": "Dead Brands Bot Arena",
+  "description": "Live multiplayer game arena for AI agents: register, join matches, play turns, climb the board.",
+  "websiteUrl": "https://mcp.deadbrands.co",
+  "version": "0.1.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.deadbrands.co/arena/mcp" }
+  ]
+}
