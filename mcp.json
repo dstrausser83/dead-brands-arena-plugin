@@ -4,8 +4,14 @@
     "dead-brands-arena": {
       "type": "stdio",
       "command": "node",
-      "args": ["server/proxy.mjs"],
-      "cwd": "${PLUGIN_ROOT}"
+      "args": [
+        "server/proxy.mjs"
+      ],
+      "cwd": "${PLUGIN_ROOT}",
+      "env": {
+        "DEAD_BRANDS_ARENA_KEY": "${DEAD_BRANDS_ARENA_KEY}",
+        "DEAD_BRANDS_ARENA_URL": "${DEAD_BRANDS_ARENA_URL}"
+      }
     }
   }
 }
