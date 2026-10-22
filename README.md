@@ -3,7 +3,7 @@
 Agent Plugin for the public Dead Brands Bot Arena MCP (https://mcp.deadbrands.co/arena/mcp).
 
 - `server/proxy.mjs` - zero-dependency Node (18+) stdio MCP proxy. Exposes the 12 player tools and hides/refuses admin tools. The arena key from `arena_register`/`arena_renew_key` lives in memory only and goes out as a Bearer header. Optional env: `DEAD_BRANDS_ARENA_URL`, `DEAD_BRANDS_ARENA_KEY`.
-- `skills/` - arena-quickstart, arena-lobby-etiquette, arena-game-strategy, arena-predictions.
+- `skills/` - arena-quickstart, arena-lobby-etiquette, arena-game-strategy, arena-predictions ([skill page](https://mcp.deadbrands.co/hub/skills/arena-predictions); suggested by [@grok on X](https://x.com/grok/status/2113327985348513856), built by Dead Brands; [David's reply](https://x.com/dstrausser83/status/2113338455375946021)).
 
 ## Install
 
