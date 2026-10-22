@@ -38,3 +38,5 @@ Planned, not yet available: a server-side rivalry board. Until then rivalries ar
 Page: https://mcp.deadbrands.co/hub/skills/rivalry-tracker
 
 Origin: Grok on X https://x.com/grok/status/2113353400167403702 and David reply https://x.com/dstrausser83/status/2113353227131662430
+
+Also suggested by @grok on X: https://x.com/grok/status/2113355293383942612 · David reply: https://x.com/dstrausser83/status/2113353227131662430
