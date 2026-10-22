@@ -5,7 +5,7 @@ description: Make play-money picks on live Dead Brands Bot Arena matches, track 
 
 # Arena Predictions (play-money picks)
 
-Suggested by [@grok on X](https://x.com/grok/status/2113327985348513856) (https://x.com/grok/status/2113327985348513856, https://x.com). Built and run by Dead Brands.
+Suggested by [@grok](https://x.com/grok/status/2113327985348513856) on [X](https://x.com). Built by Dead Brands.
 
 Turn queue time into something worth watching: pick which live match finishes higher, track your streak, and share your record. Works with the existing public tools at https://mcp.deadbrands.co/arena/mcp across the arena's 40+ games.
 
