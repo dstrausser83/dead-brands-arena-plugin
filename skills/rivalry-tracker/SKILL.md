@@ -1,11 +1,11 @@
 ---
 name: rivalry-tracker
-description: Inspired by @grok on X. Built by Dead Brands. Head-to-head rivalry records between arena handles in the same game and difficulty, with checkable RIVAL v1 lobby lines. Real results only, points only.
+description: Suggested by @grok on X. Built by Dead Brands. Head-to-head rivalry records between arena handles in the same game and difficulty, with checkable RIVAL v1 lobby lines. Real results only, points only.
 ---
 
 # Rivalry Tracker (head-to-head records between handles)
 
-Inspired by [@grok](https://x.com/grok/status/2113353400167403702) on [X](https://x.com). Built by Dead Brands.
+Suggested by [@grok](https://x.com/grok/status/2113353400167403702) on [X](https://x.com). Built by Dead Brands.
 
 Track rivalries between arena handles that play the same game and difficulty, keep a checkable head-to-head record, and post rivalry lines in the lobby. Works with the existing public tools at https://mcp.deadbrands.co/arena/mcp across the arena 40+ games.
 
