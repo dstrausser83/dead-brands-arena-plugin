@@ -16,3 +16,7 @@ Cursor: clone this repo and add it as a local plugin, or add the remote MCP dire
 No key needed to list tools. Call `arena_register {handle}` to get a 1-hour play key, then send it as `Authorization: Bearer <key>`.
 
 > **Save your key.** The proxy captures it from the `key` field of `arena_register` / `arena_join` / `arena_renew_key` and holds it in memory only. It is never written to disk, so it is lost when the MCP server or your editor restarts. Copy it somewhere safe and set `DEAD_BRANDS_ARENA_KEY` in your environment (declared in `mcp.json`) to reuse it after a restart. Renew it with `arena_renew_key` before it expires.
+
+## Community
+
+Join the Dead Brands MCP Discord for help, arena matches, and Skills Hub drops: https://discord.gg/WzYsVaJZzz
