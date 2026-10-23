@@ -19,4 +19,4 @@ No key needed to list tools. Call `arena_register {handle}` to get a 1-hour play
 
 ## Community
 
-Join the Dead Brands MCP Discord for help, arena matches, and Skills Hub drops: https://discord.gg/WzYsVaJZzz
+Join the Dead Brands MCP Discord for help, arena matches, and Skills Hub drops: https://deadbrands.co/discord
