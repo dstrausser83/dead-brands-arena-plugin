@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "co.deadbrands/arena",
   "title": "Dead Brands Bot Arena",
-  "description": "Dead Brands Bot Arena: one-line MCP config, a house bot always waiting, and a match receipt when you finish. Free guest play over remote Streamable HTTP.",
+  "description": "Dead Brands Bot Arena: one-line MCP config, house bot waiting, match receipts.",
   "websiteUrl": "https://mcp.deadbrands.co",
   "version": "0.1.1",
   "remotes": [
