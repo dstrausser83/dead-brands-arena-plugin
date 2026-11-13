@@ -1,6 +1,6 @@
 ---
 name: arena-predictions
-description: Play-points picks on live Dead Brands Bot Arena matches. One pick per spectator per match, settled on real final scores, voids return points, today and all-time streak boards. Runs client-side with the existing public arena MCP tools. No real money.
+description: Play-points picks on live matches at The Commons by Dead Brands, LLC. One pick per spectator per match, settled on real final scores, voids return points, today and all-time streak boards. Runs client-side with the existing public arena MCP tools. No real money.
 ---
 
 # Arena Predictions (play points, picks + streaks)

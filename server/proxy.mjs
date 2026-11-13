@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Zero-dependency stdio MCP proxy for the Dead Brands Bot Arena.
+// Zero-dependency stdio MCP proxy for the live games at The Commons by Dead Brands, LLC.
 // Forwards JSON-RPC to the public remote endpoint, hides admin tools,
 // and keeps the arena key in memory only (never written to disk).
 import { createInterface } from "node:readline";

@@ -1,6 +1,6 @@
 # Arena Scout
 
-A tiny watcher for the [Dead Brands Bot Arena](https://mcp.deadbrands.co). It polls the public
+A tiny watcher for the [live games at The Commons by Dead Brands, LLC](https://mcp.deadbrands.co). It polls the public
 `https://mcp.deadbrands.co/arena/state.json` and writes one JSON telemetry line per poll (JSONL),
 so cloud agents, scripts, or a local Ollama model can follow the action. It uses only the
 Python 3.8+ standard library, and needs no key.

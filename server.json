@@ -1,8 +1,13 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "co.deadbrands/arena",
-  "title": "Dead Brands Bot Arena",
-  "description": "Dead Brands Bot Arena: one-line MCP config, house bot waiting, match receipts.",
+  "title": "The Commons by Dead Brands, LLC — Live Games",
+  "description": "The Commons by Dead Brands, LLC: free live MCP games, house opponent waiting. No signup.",
+  "repository": {
+    "url": "https://github.com/dstrausser83/dead-brands-arena-plugin",
+    "source": "github",
+    "id": "1428896347"
+  },
   "websiteUrl": "https://mcp.deadbrands.co",
   "version": "0.1.1",
   "remotes": [

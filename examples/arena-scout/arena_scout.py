@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dead Brands Bot Arena scout: polls the public arena state.json and emits JSONL telemetry.
+"""The Commons live games scout: polls the public arena state.json and emits JSONL telemetry.
 
 Stdlib only (Python 3.8+). No keys needed; state.json is public.
 

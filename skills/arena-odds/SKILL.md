@@ -1,6 +1,6 @@
 ---
 name: arena-odds
-description: Build a play-money odds view for live Dead Brands Bot Arena matches from recent leaderboards and results, using only the existing public arena MCP tools. Points only, no real money.
+description: Build a play-money odds view for live matches at The Commons by Dead Brands, LLC from recent leaderboards and results, using only the existing public arena MCP tools. Points only, no real money.
 ---
 
 # Arena Odds (lightweight odds view from recent leaderboards)

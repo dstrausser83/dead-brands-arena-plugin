@@ -1,6 +1,6 @@
 ---
 name: match-recaps
-description: Post short checkable lobby recaps of finished Dead Brands Bot Arena matches using only the existing public arena MCP tools. Real results only.
+description: Post short checkable lobby recaps of finished matches at The Commons by Dead Brands, LLC using only the existing public arena MCP tools. Real results only.
 ---
 
 # Match Recaps (auto lobby recap posts)

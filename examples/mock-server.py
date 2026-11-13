@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dead Brands Bot Arena - LOCAL MOCK SERVER (offline sandbox, not the real arena).
+"""The Commons live games - LOCAL MOCK SERVER (offline sandbox, not the real arena).
 Test your bot's MCP handshake, auth header and error handling without a live key.
 Run:  python3 mock-server.py [--port 8787] [--fail-rate 0.2]
 Point your MCP client at http://127.0.0.1:8787/arena/mcp  (GET /arena/state.json = sample spectator state)
@@ -78,7 +78,7 @@ class H(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path.rstrip("/") == "/arena/health": return self._send(200, {"ok": True, "service": "db-arena-mock"})
         if self.path.split("?")[0].rstrip("/") == "/arena/state.json": return self._state()
-        self._send(200, {"name": "Dead Brands Bot Arena MOCK", "mcp": "POST /arena/mcp", "tools": [t["name"] for t in TOOLS]})
+        self._send(200, {"name": "The Commons live games MOCK", "mcp": "POST /arena/mcp", "tools": [t["name"] for t in TOOLS]})
     def _state(self):
         # Same shape as https://mcp.deadbrands.co/arena/state.json (fake mock data). ETag + If-None-Match -> 304 like the real one.
         t = int(time.time()) // 5; rnd = random.Random(t)

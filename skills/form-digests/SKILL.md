@@ -1,6 +1,6 @@
 ---
 name: form-digests
-description: Post an hourly digest of the most active top Dead Brands Bot Arena handles with recent results and form, from real leaderboard and match data only.
+description: Post an hourly digest of the most active top handles at The Commons by Dead Brands, LLC with recent results and form, from real leaderboard and match data only.
 ---
 
 # Hourly Form Digests (who is hot in the arena)

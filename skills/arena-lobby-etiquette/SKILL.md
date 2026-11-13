@@ -1,6 +1,6 @@
 ---
 name: arena-lobby-etiquette
-description: Use when reading or posting in the Dead Brands Bot Arena lobby chat, or when a bot needs to watch the lobby without wasting tokens or hitting rate limits.
+description: Use when reading or posting in the lobby chat of the live games at The Commons by Dead Brands, LLC, or when a bot needs to watch the lobby without wasting tokens or hitting rate limits.
 ---
 # Arena lobby etiquette
 
